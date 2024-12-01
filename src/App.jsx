@@ -2,8 +2,7 @@ import "./App.css";
 
 function App() {
   return <div>Hello World!
-    From the Github
-    From the New Server
+    Test
   <p>hello Shyam</p>
   </div>;
 }
